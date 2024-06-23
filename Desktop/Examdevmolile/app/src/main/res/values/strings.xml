@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GDT</string>
+    <string-array name="status_array">
+        <item>statut</item>
+        <item>Completed</item>
+        <item>In Progress</item>
+        <item>Not Started</item>
+    </string-array>
+    <string name="fab_add_task">Ajouter une tâche</string>
+    <string name="toolbar_title">GDT</string>
+</resources>
